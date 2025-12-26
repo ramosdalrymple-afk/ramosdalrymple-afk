@@ -35,11 +35,11 @@ I am a Full-Stack Developer and IT student. I specialize in building high-perfor
 
 ### 📈 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramosdalrymple-afk&show_icons=true&theme=transparent&hide_border=true" alt="Dalrymple's Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramosdalrymple-afk&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
