@@ -1,7 +1,7 @@
 # Hi, I'm Dalrymple Ramos 👋
 **Full-Stack Developer | IT Student**
 
-I am a Full-Stack Developer and IT student at PHINMA University of Pangasinan. I specialize in building high-performance digital products across web, mobile, and decentralized platforms. I am passionate about translating complex technical requirements into seamless, user-centric experiences through clean architecture and modern frameworks.
+I am a Full-Stack Developer and IT student. I specialize in building high-performance digital products across web, mobile, and decentralized platforms. I am passionate about translating complex technical requirements into seamless, user-centric experiences through clean architecture and modern frameworks.
 
 ---
 
