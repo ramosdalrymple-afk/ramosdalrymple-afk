@@ -26,11 +26,6 @@ I am a Full-Stack Developer and IT student. I specialize in building high-perfor
 ![Sui Move](https://img.shields.io/badge/Sui%20Move-161616?style=flat-square&logo=sui&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**UI/UX & Tools**
-- **Libraries:** Framer Motion (Animations), Lucide React (Icons), Shadcn/ui
-- **Version Control:** Git & GitHub
-- **Deployment:** Vercel
-
 ---
 
 ### 📈 GitHub Statistics
