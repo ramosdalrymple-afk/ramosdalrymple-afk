@@ -5,7 +5,7 @@
 I specialize in building high-performance digital products across web, mobile, and decentralized platforms. Passionate about clean architecture, user-centric experiences, and modern frameworks.
 
 - 📍 **Location:** Dagupan City, Philippines
-- 🌐 **Portfolio:** [dalhimself-dev.vercel.app](https://dalhimself-dev.vercel.app/)
+- 🌐 **Portfolio:** [dalhimself-dev.vercel.app](https://dalhimself.vercel.app/)
 - 📧 **Email:** [ramosdalrymple@gmail.com](mailto:ramosdalrymple@gmail.com)
 
 ---
