@@ -11,4 +11,4 @@ I specialize in building high-performance digital products across web, mobile, a
 📍 **Location:** Dagupan City, Philippines  
 💻 **Portfolio:** [dalhimself.vercel.app](https://dalhimself.vercel.app/)  
 ✉️ **Email:** [ramosdalrymple@gmail.com](mailto:ramosdalrymple@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/dalrymple-ramos/](https://www.linkedin.com/in/dalrymple-ramos/)  
