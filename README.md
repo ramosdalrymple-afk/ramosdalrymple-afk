@@ -2,8 +2,6 @@
 
 > *Translating complex logic into seamless digital experiences.*
 
-I specialize in building high-performance digital products across web, mobile, and decentralized platforms. I am deeply passionate about clean architecture, user-centric experiences, and utilizing modern frameworks.
-
 ---
 
 ### 🌐 Connect
